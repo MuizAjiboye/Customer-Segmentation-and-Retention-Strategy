@@ -173,6 +173,7 @@ Customer behaviour varies significantly across segments.
 ### 3. Retention Represents a Significant Growth Opportunity
 Several existing customer groups already demonstrate strong purchasing behaviour.
 **Business Implication:** Improving retention can often generate greater returns than acquiring additional customers, depending on acquisition costs, retention costs, and customer lifetime value.
+
 ---
 ## Business Recommendations
 | Business Function | Recommendation |
