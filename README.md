@@ -3,6 +3,7 @@
 An online retailer wanted to better understand customer purchasing behaviour, identify customers at risk of churn, and develop targeted retention and loyalty strategies.
 Using over **525,000 retail transactions**, customers were segmented based on purchasing behaviour using the **RFM Framework (Recency, Frequency, and Monetary Value)**. The analysis identified seven distinct customer groups ranging from inactive customers requiring re-engagement to highly valuable customers responsible for a disproportionate share of revenue.
 The results provide a framework for improving customer retention, increasing customer lifetime value, and optimizing marketing spend through personalized engagement strategies.
+
 ---
 ## Business Problem
 Not all customers contribute equally to business growth.
